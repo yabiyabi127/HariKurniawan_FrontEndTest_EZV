@@ -30,7 +30,7 @@ Klik gambar di bawah untuk melihat versi penuh:
 
 ```bash
 git clone https://github.com/yabiyabi127/HariKurniawan_FrontEndTest_EZV.git
-cd todo-apps-nextjs
+cd .\HariKurniawan_FrontEndTest_EZV\
 npm install
 npm run dev
 ```
