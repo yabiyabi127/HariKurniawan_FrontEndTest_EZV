@@ -29,7 +29,7 @@ Klik gambar di bawah untuk melihat versi penuh:
 ## 🧰 Instalasi
 
 ```bash
-git clone https://github.com/yabiyabi127/harikurniawan_Frontendtest_ezv.git
+git clone https://github.com/yabiyabi127/HariKurniawan_FrontEndTest_EZV.git
 cd todo-apps-nextjs
 npm install
 npm run dev
